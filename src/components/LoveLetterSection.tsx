@@ -36,7 +36,7 @@ const LoveLetterSection = () => (
             viewport={{ once: true }}
             transition={{ delay: 0.3 }}
           >
-            My Dearest Love,
+            My Dearest Darling,
           </motion.p>
 
           <motion.p

@@ -29,7 +29,7 @@ const PhotoGallery = () => (
       transition={{ delay: 0.2 }}
       className="text-center text-muted-foreground font-body italic mb-16 text-lg"
     >
-      Every picture tells our story
+      Every picture tells your story
     </motion.p>
 
     <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 gap-8 md:gap-12">
